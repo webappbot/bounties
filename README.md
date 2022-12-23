@@ -1,2 +1,1 @@
-First Bounty
-test
+Bounties
