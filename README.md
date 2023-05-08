@@ -1,1 +1,1 @@
-# bountiestest
+# bounties
